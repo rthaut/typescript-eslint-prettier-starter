@@ -1,9 +1,8 @@
-# TypeScript eslint prettier starter
+# TypeScript ESLint Prettier Starter
 
 A starter project to enable:
 
-🚀 TypeScript for compilation and sanity  
-✅ ESLint to keep your code in check  
-✈ AirBnb eslint config as base, so you don't have to reinvent the wheel  
-✨ Prettier to make stuff prettiest  
-🤘 VS code integration so you don't have to worry about all of this none-sense
+🚀 [TypeScript](https://www.typescriptlang.org/) for compilation and sanity  
+✅ [ESLint](https://eslint.org/) to keep your code in check  
+✨ [Prettier](https://prettier.io/) to make stuff prettiest  
+🤘 [VS Code](https://code.visualstudio.com/) integration so you don't have to worry about all of this none-sense  
